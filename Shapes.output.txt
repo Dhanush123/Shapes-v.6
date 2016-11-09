@@ -1,0 +1,17 @@
+SQUARE side=1 area=1.00 perimeter=4.00
+SQUARE side=14 area=196.00 perimeter=56.00
+SQUARE side=0 area=0.00 perimeter=0.00
+RECTANGLE length=1 width=0 area=0.00 perimeter=2.00
+RECTANGLE length=15 width=0 area=0.00 perimeter=30.00
+CIRCLE radius=1 area=3.14 perimeter=6.28
+CIRCLE radius=15 area=706.86 perimeter=94.25
+TRIANGLE side=1 area=0.43 perimeter=3.00
+TRIANGLE side=0 area=0.00 perimeter=0.00
+CUBE side=1 surface area=6.00 volume=1.00
+CUBE side=12 surface area=864.00 volume=1728.00
+BOX length=1 width=1 height=1 surface area=6.00 volume=1.00
+BOX length=2 width=3 height=4 surface area=52.00 volume=24.00
+CYLINDER radius=1 height=1 surface area=12.57 volume=3.14
+CYLINDER radius=4 height=0 surface area=100.53 volume=0.00
+PRISM side=1 height=1 surface area=3.87 volume=0.43
+PRISM side=2 height=4 surface area=27.46 volume=6.93
